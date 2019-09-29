@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342161938922",
+    "firebase_url": "https://formoza.firebaseio.com",
+    "project_id": "formoza",
+    "storage_bucket": "formoza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342161938922:android:ff2e53a8c6c8bc31c9fa93",
+        "android_client_info": {
+          "package_name": "com.blize.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342161938922-434q0qau8m74ar1e8tgdindqc19im0gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blize.firebaseauth",
+            "certificate_hash": "372a1dc8735e1bc0a1f732eae1b1f8a5b2bf3a70"
+          }
+        },
+        {
+          "client_id": "342161938922-u805hll4piob0jd9t9uumboag05n456m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvTElJQSvI6dtk4UfrQ3jibkVLtkpPDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342161938922-u805hll4piob0jd9t9uumboag05n456m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
